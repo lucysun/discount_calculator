@@ -1,0 +1,1 @@
+A discount calculator that provides the dollar amount of discount off a total order.
